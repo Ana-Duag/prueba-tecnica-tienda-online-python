@@ -1,6 +1,6 @@
 # Tienda online.Simulación de e-commerce en Python para la gestión de inventarios, clientes, compras y ventas.
 
-### Proyecto desarrollado por **Ana Dueñas**, Agosto 2025.
+### Proyecto desarrollado por **Ana Dueñas Agudo**, Agosto 2025.
 
 ---
 
